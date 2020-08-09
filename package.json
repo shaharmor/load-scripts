@@ -1,15 +1,15 @@
 {
-  "name": "@shaharmor/browser-module-boilerplate",
-  "version": "0.0.0",
-  "description": "browser-module-boilerplate",
+  "name": "@shaharmor/load-scripts",
+  "version": "0.0.1",
+  "description": "load-scripts",
   "keywords": [],
-  "homepage": "https://github.com/shaharmor/browser-module-boilerplate",
+  "homepage": "https://github.com/shaharmor/load-scripts",
   "bugs": {
-    "url": "https://github.com/shaharmor/browser-module-boilerplate/issues"
+    "url": "https://github.com/shaharmor/load-scripts/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shaharmor/browser-module-boilerplate.git"
+    "url": "git+https://github.com/shaharmor/load-scripts.git"
   },
   "license": "MIT",
   "author": {

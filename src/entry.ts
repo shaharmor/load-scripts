@@ -1,3 +1,1 @@
-import { Main } from '@/main';
-
-export = new Main();
+export * from '@/load-scripts';

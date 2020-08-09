@@ -1,1 +1,1 @@
-# browser-module-boilerplate
+# load-scripts

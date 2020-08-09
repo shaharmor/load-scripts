@@ -14,7 +14,6 @@ const config: webpack.Configuration & { devServer: WebpackDevServerConfiguration
   output: {
     filename: 'entry.js',
     path: resolve(__dirname, 'dist'),
-    library: 'main',
     libraryTarget: 'umd',
     devtoolNamespace: '',
   },
@@ -48,7 +47,6 @@ const config: webpack.Configuration & { devServer: WebpackDevServerConfiguration
   ],
   devServer: {
     compress: true,
-    port: 9000,
     open: true,
   },
 };
